@@ -1,0 +1,7 @@
+{
+  "name": "AHEAD Super Clinic",
+  "description": "A high-performance medical dashboard for continuous patient care and queue management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
