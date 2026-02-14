@@ -362,7 +362,7 @@ const DoctorPortal: React.FC<DoctorPortalProps> = ({
                     <div className="w-2.5 h-2.5 rounded-full bg-[#449DD1]" />
                     <div className="text-[10px] font-black text-[#449DD1] uppercase tracking-widest">Predictive Insight</div>
                   </div>
-                  <p className="text-sm text-sky-900 font-bold leading-relaxed">High metabolic resilience detected. Protocol 9.2 efficacy likely > 94%.</p>
+                  <p className="text-sm text-sky-900 font-bold leading-relaxed">High metabolic resilience detected. Protocol 9.2 efficacy likely &gt; 94%.</p>
                 </div>
              </div>
           </section>
